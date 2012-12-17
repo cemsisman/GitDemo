@@ -1,0 +1,3 @@
+We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
+
+More info here: http://nvie.com/posts/a-successful-git-branching-model/
